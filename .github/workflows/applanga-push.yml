@@ -4,7 +4,7 @@ on:
     branches:
       - main
     paths:
-      - en_Project String Positions Screenshots_strings.xliff
+      - en.xliff
   workflow_dispatch:
     inputs:
       push_targets:
