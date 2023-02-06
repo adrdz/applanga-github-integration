@@ -13,7 +13,7 @@
           "language": "en",
           "file_format": "xliff",
           "path": "./fr_Project String Positions Screenshots_strings.xliff",
-          "tag": "app:Localizable:1233.strings"
+          "tag": "app:Localizable:7069.strings"
         }
       ]
     },
@@ -24,7 +24,7 @@
             "en"
           ],
           "file_format": "xliff",
-          "path": "./<language>.xliff",
+          "path": "./en.xliff",
           "tag": "app:Localizable.strings"
         },
         {
@@ -32,8 +32,8 @@
             "en"
           ],
           "file_format": "xliff",
-          "path": "./<language>.xliff",
-          "tag": "app:Localizable:1233.strings"
+          "path": "./fr.xliff",
+          "tag": "app:Localizable:7069.strings"
         }
       ]
     }
