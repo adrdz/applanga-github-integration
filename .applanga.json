@@ -8,12 +8,6 @@
           "file_format": "xliff",
           "path": "./en_Project String Positions Screenshots_strings.xliff",
           "tag": "app:Localizable.strings"
-        },
-        {
-          "language": "en",
-          "file_format": "xliff",
-          "path": "./fr_Project String Positions Screenshots_strings.xliff",
-          "tag": "app:Localizable:7069.strings"
         }
       ]
     },
@@ -24,16 +18,8 @@
             "en"
           ],
           "file_format": "xliff",
-          "path": "./en.xliff",
+          "path": "./<language>.xliff",
           "tag": "app:Localizable.strings"
-        },
-        {
-          "exclude_languages": [
-            "en"
-          ],
-          "file_format": "xliff",
-          "path": "./fr.xliff",
-          "tag": "app:Localizable:7069.strings"
         }
       ]
     }
