@@ -1,0 +1,41 @@
+{
+  "app": {
+    "base_language": "en",
+    "push": {
+      "source": [
+        {
+          "language": "en",
+          "file_format": "xliff",
+          "path": "./en_Project String Positions Screenshots_strings.xliff",
+          "tag": "app:Localizable.strings"
+        },
+        {
+          "language": "en",
+          "file_format": "xliff",
+          "path": "./fr_Project String Positions Screenshots_strings.xliff",
+          "tag": "app:Localizable:1233.strings"
+        }
+      ]
+    },
+    "pull": {
+      "target": [
+        {
+          "exclude_languages": [
+            "en"
+          ],
+          "file_format": "xliff",
+          "path": "./<language>.xliff",
+          "tag": "app:Localizable.strings"
+        },
+        {
+          "exclude_languages": [
+            "en"
+          ],
+          "file_format": "xliff",
+          "path": "./<language>.xliff",
+          "tag": "app:Localizable:1233.strings"
+        }
+      ]
+    }
+  }
+}
