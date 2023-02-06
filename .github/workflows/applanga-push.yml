@@ -5,7 +5,6 @@ on:
       - main
     paths:
       - en_Project String Positions Screenshots_strings.xliff
-      - fr_Project String Positions Screenshots_strings.xliff
   workflow_dispatch:
     inputs:
       push_targets:
